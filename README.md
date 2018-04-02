@@ -1,1 +1,3 @@
-# Alex-s-blog
+# Alex-s-blog 
+
+Hi, my name is Alex!
